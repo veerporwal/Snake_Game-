@@ -1,4 +1,4 @@
-# Snake_Game (UING PYGAME IN PYTHON):-
+# Snake_Game (using PYGAME IN PYTHON):-
 just created my first game with the help of pygame using python
 
 
